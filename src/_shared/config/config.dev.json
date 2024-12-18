@@ -1,0 +1,11 @@
+{
+  "privateKey": "lstventures123",
+  "db": {
+    "dialect": "mysql",
+    "database": "lstv_build_blocks_db",
+    "port": "3306",
+    "host": "localhost",
+    "username": "root",
+    "password": ""
+  }
+}
